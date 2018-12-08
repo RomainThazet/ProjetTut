@@ -78,4 +78,6 @@ public class ItemDetailActivity extends AppCompatActivity {
         }
         return super.onOptionsItemSelected(item);
     }
+
+    //SALUT ROMAIN LEO HUGO ENCORE
 }

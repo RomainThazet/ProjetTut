@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:640033087965:android:140b9d103870ce59",
         "android_client_info": {
-          "package_name": "Thermo.Stat"
+          "package_name": "com.example.cobrar13.thermostats.app"
         }
       },
       "oauth_client": [
