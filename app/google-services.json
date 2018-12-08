@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "640033087965",
+    "firebase_url": "https://thermostats-f8c66.firebaseio.com",
+    "project_id": "thermostats-f8c66",
+    "storage_bucket": "thermostats-f8c66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640033087965:android:140b9d103870ce59",
+        "android_client_info": {
+          "package_name": "Thermo.Stat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640033087965-hluk4eutaed6cqmopr2mudd2gasf79lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgAg9MEG1enAGAK8DAkcxqS7mtHzSGDvo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
